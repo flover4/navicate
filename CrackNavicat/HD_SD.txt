@@ -1,0 +1,4 @@
+1. copy vào thý muc cài, chay voi quyen admin click path
+2, chay navicat --> nó báo het han, click ok --> nhan tiep vào active manual
+3. Copy chuoi base64  request code --> dán vào request code o crack vua chay býoc 1, 
+nhan vào get active code roi paste sang cua so kia là ðc.
